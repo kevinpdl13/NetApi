@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Desarrollo\\BibliotecaApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32FF2290-CE9D-430F-8398-96FC1E0E36CD}|BibliotecaApi\\BibliotecaApi.csproj|c:\\desarrollo\\bibliotecaapi\\bibliotecaapi\\migrations\\20260523142144_initialnew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FF2290-CE9D-430F-8398-96FC1E0E36CD}|BibliotecaApi\\BibliotecaApi.csproj|solutionrelative:bibliotecaapi\\migrations\\20260523142144_initialnew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FF2290-CE9D-430F-8398-96FC1E0E36CD}|BibliotecaApi\\BibliotecaApi.csproj|c:\\desarrollo\\bibliotecaapi\\bibliotecaapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32FF2290-CE9D-430F-8398-96FC1E0E36CD}|BibliotecaApi\\BibliotecaApi.csproj|solutionrelative:bibliotecaapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FF2290-CE9D-430F-8398-96FC1E0E36CD}|BibliotecaApi\\BibliotecaApi.csproj|c:\\desarrollo\\bibliotecaapi\\bibliotecaapi\\datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FF2290-CE9D-430F-8398-96FC1E0E36CD}|BibliotecaApi\\BibliotecaApi.csproj|solutionrelative:bibliotecaapi\\datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FF2290-CE9D-430F-8398-96FC1E0E36CD}|BibliotecaApi\\BibliotecaApi.csproj|c:\\desarrollo\\bibliotecaapi\\bibliotecaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FF2290-CE9D-430F-8398-96FC1E0E36CD}|BibliotecaApi\\BibliotecaApi.csproj|solutionrelative:bibliotecaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260523142144_InitialNew.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\BibliotecaApi\\BibliotecaApi\\Migrations\\20260523142144_InitialNew.cs",
+              "RelativeDocumentMoniker": "BibliotecaApi\\Migrations\\20260523142144_InitialNew.cs",
+              "ToolTip": "C:\\Desarrollo\\BibliotecaApi\\BibliotecaApi\\Migrations\\20260523142144_InitialNew.cs",
+              "RelativeToolTip": "BibliotecaApi\\Migrations\\20260523142144_InitialNew.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T14:21:45.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Desarrollo\\BibliotecaApi\\BibliotecaApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BibliotecaApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Desarrollo\\BibliotecaApi\\BibliotecaApi\\appsettings.Development.json",
+              "RelativeToolTip": "BibliotecaApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-23T14:13:33.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\BibliotecaApi\\BibliotecaApi\\Program.cs",
+              "RelativeDocumentMoniker": "BibliotecaApi\\Program.cs",
+              "ToolTip": "C:\\Desarrollo\\BibliotecaApi\\BibliotecaApi\\Program.cs",
+              "RelativeToolTip": "BibliotecaApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T01:49:12.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\BibliotecaApi\\BibliotecaApi\\Datos\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BibliotecaApi\\Datos\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Desarrollo\\BibliotecaApi\\BibliotecaApi\\Datos\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BibliotecaApi\\Datos\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T01:48:53.143Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
